@@ -1,0 +1,18 @@
+# IDE's:
+.idea
+.vscode
+
+# Dependencies.
+node_modules
+
+# Distribution version.
+dist
+
+# Distribution zipped version.
+dist.zip
+
+# Others.
+package-lock.json
+.DS_STORE
+.DS_Store
+app.zip
